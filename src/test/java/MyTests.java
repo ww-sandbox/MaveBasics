@@ -4,6 +4,7 @@ public class MyTests {
     @Test
     public void first(){
         String selectedBrowser = System.getProperty("browser");
-        System.out.println(selectedBrowser);
+        String browserVersion = System.getProperty("browser.version");
+        System.out.println(selectedBrowser + browserVersion);
     }
 }

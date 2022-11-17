@@ -13,6 +13,7 @@
             <class name="CalcTestsPackage.CalcDivisionTests" />
             <class name="CalcTestsPackage.CalcMultiplyTests" />
             <class name="CalcTestsPackage.CalcSumTests" />
+<!--            <class name="MyTests"></class>-->
         </classes>
     </test>
 
